@@ -4,10 +4,10 @@
 A lightweight, client-side password generator and validator built with vanilla HTML, CSS, and JavaScript. This tool helps users create strong, secure passwords and validate custom passwords against security best practices.
 
 ##👨‍💻 developer details
- **Name**:kezia
- **college**:rayalaseema university
- **rollno**: 22ru1a0511
- **academic year**:2022-2026
+ **Name**:kezia.
+ **college**:rayalaseema university.
+ **rollno**: 22ru1a0511.
+ **academic year**:2022-2026.
  
 
 ##✨ Features
